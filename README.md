@@ -9,3 +9,4 @@ For detailed information, see also: https://www.aanda.org/articles/aa/pdf/2017/1
 - **Relaxation** contains the code for relaxing a initial 3D model
 - **Merger** contains the code for performing a merger simulation of two identical neutron stars 
 
+When using a tabulated EOS a table e.g. from https://stellarcollapse.org/equationofstate needs to be placed into the **eos** folder.
