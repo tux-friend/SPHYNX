@@ -8,7 +8,7 @@ For detailed information see also: https://www.aanda.org/articles/aa/pdf/2017/10
 
 - **Relaxation** contains the code for relaxing a initial 3D model
 - **Merger** contains the code for performing a merger simulation of two identical neutron stars 
-- **1D_density_profiles** - scripts for creating and plotting 1D density profiles for polytropic and piecewise polytropic EOS
+- **1D_density_profiles** - scripts for creating and plotting 1D density profiles for polytropic and piecewise polytropic EOS (for tabulated EOS `newTOV` can be used)
 - **plotSPHYNXdata** - scripts for plotting models, GW signal, stages of coalescence etc.
 
 When using a tabulated EOS a table e.g. from https://stellarcollapse.org/equationofstate needs to be placed into the **eos** folder.
