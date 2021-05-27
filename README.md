@@ -5,3 +5,7 @@ This repository contains the code I used for my master thesis project. The code 
 
 Source: https://astro.physik.unibas.ch/en/people/ruben-cabezon/sphynx/
 For detailed information, see also: https://www.aanda.org/articles/aa/pdf/2017/10/aa30208-16.pdf
+
+- **Relaxation** contains the code for relaxing a initial 3D model
+- **Merger** contains the code for performing a merger simulation of two identical neutron stars 
+
